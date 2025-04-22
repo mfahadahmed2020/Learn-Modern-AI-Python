@@ -1,1 +1,1 @@
-# Learn-Modern-AI-Python
+# Learn Modern AI Python
